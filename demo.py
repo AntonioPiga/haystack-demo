@@ -3,7 +3,7 @@ from haystack.utils import build_pipeline, add_example_data, print_answers
 
 # We are model agnostic :) Here, you can choose from: "anthropic", "cohere", "huggingface", and "openai".
 provider = "openai"
-API_KEY = "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"
+API_KEY = "xxx"
 
 document_store = InMemoryDocumentStore(use_bm25=True)
 
