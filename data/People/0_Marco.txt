@@ -1,1 +1,1 @@
-Marco is a backend developer born in 1990. He resides between Milan and Naples.
+Marco is a developer born in 1990 who lives in Naples.
